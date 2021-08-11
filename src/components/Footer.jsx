@@ -6,11 +6,11 @@ const Footer = () => (
     <div className="container py-2 border-top">
       <ListGroup horizontal>
         <ListGroup.Item className="border-0 p-0 pe-3 bg-transparent">
-          <a href="https://github.com/vetneka/frontend-project-lvl4" className="d-flex align-items-center text-reset text-decoration-none opacity-70 opacity-fade-in" target="_blank" rel="noreferrer">
+          <a href="https://github.com/lodo4ka/frontend-project-lvl4" className="d-flex align-items-center text-reset text-decoration-none opacity-70 opacity-fade-in" target="_blank" rel="noreferrer">
             <span className="icon icon--github me-2" />
             <div className="d-flex flex-column">
               <span className="fs-dwarf-2 text-muted">implemented by</span>
-              <span className="fs-dwarf-1 lh-1">vetneka</span>
+              <span className="fs-dwarf-1 lh-1">lodo4ka</span>
             </div>
           </a>
         </ListGroup.Item>

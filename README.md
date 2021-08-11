@@ -1,6 +1,6 @@
-[![Actions Status](https://github.com/vetneka/frontend-project-lvl4/workflows/hexlet-check/badge.svg)](https://github.com/vetneka/frontend-project-lvl4/actions)
-[![Build Status](https://github.com/vetneka/frontend-project-lvl3/workflows/build/badge.svg)](https://github.com/vetneka/frontend-project-lvl4/actions/workflows/build.yml)
-[![Maintainability](https://api.codeclimate.com/v1/badges/021f2c39e2b0d3646b12/maintainability)](https://codeclimate.com/github/vetneka/frontend-project-lvl4/maintainability)
+[![Actions Status](https://github.com/lodo4ka/frontend-project-lvl4/workflows/hexlet-check/badge.svg)](https://github.com/lodo4ka/frontend-project-lvl4/actions)
+[![Build Status](https://github.com/lodo4ka/frontend-project-lvl3/workflows/build/badge.svg)](https://github.com/lodo4ka/frontend-project-lvl4/actions/workflows/build.yml)
+[![Maintainability](https://api.codeclimate.com/v1/badges/021f2c39e2b0d3646b12/maintainability)](https://codeclimate.com/github/lodo4ka/frontend-project-lvl4/maintainability)
 
 # Hexlet-chat
 > study project at hexlet.io
@@ -51,7 +51,7 @@ By default available two users:
 
 ### Locally
 ```
-$ git clone git@github.com:vetneka/frontend-project-lvl4.git
+$ git clone git@github.com:lodo4ka/frontend-project-lvl4.git
 $ make install
 $ make start
 ```
